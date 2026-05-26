@@ -20,6 +20,11 @@ The project aims to help businesses optimize marketing strategies, reduce conver
 - Google Colab
 - GitHub
 
+## Dataset Source
+
+- Marketing Campaign Performance Dataset:
+https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
+
 ## Dataset Information
 The dataset includes marketing campaign data such as:
 - Campaign Type
